@@ -9,7 +9,7 @@
 </div>  
 
 ## 💻 About Me  
-I'm a C++ and Full Stack developer with a passion for creating efficient, sustainable, and scalable software solutions. With over 11 years of experience, I have honed my skills in both front-end and back-end development, ensuring that my code is not only functional but also clean and maintainable. Currently into Rust and JavaScript. Always tinkering with something new when not sitting at a computer, I can be found running.
+I'm an experienced C++, AI & ML Engineer || Full Stack developer with a passion for creating efficient, sustainable, and scalable software solutions. With over 11 years of experience, I have honed my skills in both front-end and back-end development, ensuring that my code is not only functional but also clean and maintainable. Currently into Rust and JavaScript. Always tinkering with something new when not sitting at a computer, I can be found running.
 
 ## 🌱 My Mission
 I believe in writing code that is not only effective but also sustainable. I strive to create applications that minimize resource consumption and promote eco-friendly practices in technology. 
