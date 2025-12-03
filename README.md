@@ -33,6 +33,9 @@ I believe in writing code that is not only effective but also sustainable. I str
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarbeargo)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polarbeargo&theme=merko" alt="Top 8 Languages - Repos Distribution" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polarbeargo&theme=merko" alt="Top 8 Languages - Commit History Over 11 Years" />
+</div>
