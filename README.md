@@ -9,7 +9,7 @@
 </div>  
 
 ## 💻 About Me  
-I'm an experienced C++, AI & ML Engineer || Full Stack developer with a passion for creating efficient, sustainable, and scalable software solutions. With over 11 years of experience, I have honed my skills in both front-end and back-end development, ensuring that my code is not only functional but also clean and maintainable. Currently into Rust and JavaScript. Always tinkering with something new when not sitting at a computer, I can be found running.
+I'm an experienced C++, AI & ML Engineer || Full Stack developer with a passion for creating efficient, sustainable, and scalable software solutions. With over 12 years of experience, I have honed my skills in both front-end and back-end development, ensuring that my code is not only functional but also clean and maintainable. Currently into Rust and JavaScript. Always tinkering with something new when not sitting at a computer, I can be found running.
 
 ## 🌱 My Mission
 I believe in writing code that is not only effective but also sustainable. I strive to create applications that minimize resource consumption and promote eco-friendly practices in technology. 
@@ -36,7 +36,7 @@ I believe in writing code that is not only effective but also sustainable. I str
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarbeargo&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="assets/top-languages.svg" alt="Top Languages" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polarbeargo&theme=merko" alt="Top 8 Languages - Repos Distribution" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polarbeargo&theme=merko" alt="Top 8 Languages - Commit History Over 11 Years" />
