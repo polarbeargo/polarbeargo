@@ -9,6 +9,7 @@
 </div>  
 
 ## 💻 About Me  
+
 I'm an experienced C++, AI & ML Engineer || Full Stack developer with a passion for creating efficient, sustainable, and scalable software solutions. With over 12 years of experience, I have honed my skills in both front-end and back-end development, ensuring that my code is not only functional but also clean and maintainable. Always tinkering with something new when not sitting at a computer, I am often found either running beneath the open sky or cooking with quiet care in the kitchen.
 
 ## 🌱 My Mission
